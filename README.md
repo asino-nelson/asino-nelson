@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nelson Asino
+- Hi there, I’m Nelson Asino👋
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning Android Development at Google Africa as a Google Associate Android Developer
+- 🌱 I’m currently learning Android Development at Google Africa Developers Scholarship
 - 💞️ I’m looking to collaborate on multiple Android Development projects
 - 📫 How to reach me  LinkedIn: https://www.linkedin.com/in/nelson-asino-7a42a5239/
 
