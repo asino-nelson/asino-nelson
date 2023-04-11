@@ -1,4 +1,6 @@
-# align="center" Hi, I'm Nelson 👋👨🏾‍💻
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#000088&height=120&section=header" />
+
+# Hi, I'm Nelson 👋👨🏾‍💻
 
 
 **Code craftsman**
@@ -41,12 +43,26 @@ I'm a software engineer who is passionate about biulding Android applications an
 ### 📊Stats
 <br />
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&show_icons=true&theme=dracula" />
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<div align="center">
+
+  <img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&show_icons=true&theme=prussian" />
+
+  <img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact" />
+
+</div>
+
+<br />
+
+<p align="center">
+    <a href="https://github.com/asino-nelson/github-readme-streak-stats">
+      <img alt="Nelson's streak" src="https://streak-stats.demolab.com/?user=asino-nelson&theme=prussian&hide_border=true"/>
+    </a>
+    
+</p>
 
 
-
+<br />
 <br />
 
 
