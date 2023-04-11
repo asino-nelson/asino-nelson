@@ -1,6 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#000088&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=NelsonAsino&fontsize=10&fontColor=fff&animation=twinklimg&fontAlignY=35"/>
+ 
 
-# Hi, I'm Nelson 👋👨🏾‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&vCenter=true&width=1000&lines=Hi,👋+I'm+Nelson+Asino👨🏾‍💻;I+love+Kotlin+and+Jetoack+Compose+:%29)](https://git.io/typing-svg)
 
 
 **Code craftsman**
@@ -46,18 +47,21 @@ I'm a software engineer who is passionate about biulding Android applications an
 
 <div align="center">
 
- <img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&theme=prussian&show_icons=true" />
+ <img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
-  <img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact" />
+  <img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 </div>
 
+<br />
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asino-nelson&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
 <p align="center">
     <a href="https://github.com/asino-nelson/github-readme-streak-stats">
-      <img alt="Nelson's streak" src="https://streak-stats.demolab.com/?user=asino-nelson&theme=prussian&hide_border=true"/>
+      <img alt="Nelson's streak" width="100%" height="195px" src="https://streak-stats.demolab.com/?user=asino-nelson&hide_border=true&theme=gotham"/>
     </a>
     
 </p>
