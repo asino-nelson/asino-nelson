@@ -1,4 +1,4 @@
-# Hi, I'm Nelson 👋👨🏾‍💻
+# align="center" Hi, I'm Nelson 👋👨🏾‍💻
 
 
 **Code craftsman**
@@ -44,9 +44,9 @@ I'm a software engineer who is passionate about biulding Android applications an
 ### 📊Stats
 <br />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&show_icons=true&theme=dracula" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&show_icons=true&theme=dracula" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 
 
@@ -56,7 +56,7 @@ I'm a software engineer who is passionate about biulding Android applications an
 #
 
 
-### Find me around the web🌐
+### Connect with me🌐
 <br />
 
 LinkedIn: https://www.linkedin.com/in/nelson-asino-7a42a5239/
