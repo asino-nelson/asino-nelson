@@ -52,6 +52,10 @@ I'm a software engineer who is passionate about biulding Android applications an
 
 </div>
 
+<img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&theme=dark&show_icons=true" />
+
+![Anurag's GitHub stats]()
+
 <br />
 
 <p align="center">
