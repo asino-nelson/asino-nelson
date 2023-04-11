@@ -46,15 +46,12 @@ I'm a software engineer who is passionate about biulding Android applications an
 
 <div align="center">
 
-  <img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&show_icons=true&theme=prussian" />
+ <img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&theme=prussian&show_icons=true" />
 
   <img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact" />
 
 </div>
 
-<img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&theme=dark&show_icons=true" />
-
-![Anurag's GitHub stats]()
 
 <br />
 
