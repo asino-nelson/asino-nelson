@@ -1,7 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=NelsonAsino&fontsize=10&fontColor=fff&animation=twinklimg&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Nelson Asino&fontsize=10&fontColor=fff&animation=twinklimg&fontAlignY=35"/>
  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&vCenter=true&width=1000&lines=Hi,👋+I'm+Nelson+Asino👨🏾‍💻;I+love+Kotlin+and+Jetoack+Compose+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&vCenter=true&width=1000&lines=Hi,👋+I'm+Nelson+Asino👨🏾‍💻;I+love+Kotlin+and+Jetpack+Compose+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Nelson+Asino%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;I+love+Kotlin+and+Jetpack+Compose+:%29)](https://git.io/typing-svg)
+
+</div>
 
 
 **Code craftsman**
@@ -49,7 +55,7 @@ I'm a software engineer who is passionate about biulding Android applications an
 
  <img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=asino-nelson&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
-  <img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="left" width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 </div>
 
