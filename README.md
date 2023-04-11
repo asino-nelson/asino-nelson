@@ -5,17 +5,14 @@
 
 I'm a software engineer who is passionate about biulding Android applications and building my vision of the world one step at a time. All my coding projects are built from the ground up, to solving real life problems by transforming existing designs ideas into code.
 
-<br />
-
 #
 
 ### 💼 Languages and Tools
-<br /> 
 
 
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  />                    
+<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />                    
 
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  />     
 
@@ -51,9 +48,6 @@ I'm a software engineer who is passionate about biulding Android applications an
 
 
 <br />
-<br />
-
-#
 
 
 ### Find me around the web🌐
