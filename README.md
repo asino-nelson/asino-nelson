@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Nelson Asino&fontsize=10&fontColor=fff&animation=twinklimg&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Nelson+Asino&fontsize=10&fontColor=fff&animation=twinklimg&fontAlignY=35"/>
  
 
 <div align="center">
@@ -13,9 +13,12 @@
 
 I'm a software engineer who is passionate about biulding Android applications and building my vision of the world one step at a time. All my coding projects are built from the ground up, to solving real life problems by transforming existing designs ideas into code.
 
-#
+<br/>
 
-### 💼 Languages and Tools
+
+## 💼 Languages and Tools
+
+<br/>
 
 
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
@@ -43,7 +46,10 @@ I'm a software engineer who is passionate about biulding Android applications an
 <br />
 
 
-### Connect with me🌐    
+## Connect with me🌐   
+
+<br/>
+
 <div>
 <a href="https://www.linkedin.com/in/nelson-asino-7a42a5239" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -58,8 +64,10 @@ I'm a software engineer who is passionate about biulding Android applications an
 
 </div>
 
+<br/>
 
 ### 📊Stats
+
 <br />
 
 
@@ -88,10 +96,5 @@ I'm a software engineer who is passionate about biulding Android applications an
 <br />
 <br />
 
-
-### 
-<br />
-
-LinkedIn: https://www.linkedin.com/in/nelson-asino-7a42a5239/
 
 
