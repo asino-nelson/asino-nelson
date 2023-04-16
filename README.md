@@ -80,8 +80,10 @@ I'm a software engineer who is passionate about biulding Android applications an
 </div>
 
 <br />
+<br />
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asino-nelson&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ [![Nelson's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asino-nelson&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
