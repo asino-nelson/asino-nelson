@@ -82,11 +82,6 @@ I'm a software engineer who is passionate about biulding Android applications an
 <br />
 <br />
 
-
- [![Nelson's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asino-nelson&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br />
-
 <p align="center">
     <a href="https://github.com/asino-nelson/github-readme-streak-stats">
       <img alt="Nelson's streak" width="100%" height="195px" src="https://streak-stats.demolab.com/?user=asino-nelson&hide_border=true&theme=gotham"/>
