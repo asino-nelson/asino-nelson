@@ -11,7 +11,7 @@
 
 **Code craftsman**
 
-I'm a software engineer who is passionate about biulding Android applications and building my vision of the world one step at a time. All my coding projects are built from the ground up, to solving real life problems by transforming existing designs ideas into code.
+I'm a software engineer  passionate about biulding Android applications and building my vision of the world one step at a time. All my coding projects are built from the ground up, to solving real life problems by transforming existing designs and ideas into concrete code solutions.
 
 <br/>
 
