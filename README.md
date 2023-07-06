@@ -4,14 +4,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Nelson+Asino%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;I+love+Kotlin+and+Jetpack+Compose+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Nelson+Asino%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;I+love+Android+and+Web+Development+:%29)](https://git.io/typing-svg)
 
 </div>
 
 
 **Code craftsman**
 
-I'm a software engineer  passionate about biulding Android applications and building my vision of the world one step at a time. All my coding projects are built from the ground up, to solving real life problems by transforming existing designs and ideas into concrete code solutions.
+I'm a software engineer  passionate about building Android and Web applications and building my vision of the world one step at a time. All my coding projects are built from the ground up, to solving real life problems by transforming existing designs and ideas into concrete code solutions.
 
 <br/>
 
@@ -82,12 +82,7 @@ I'm a software engineer  passionate about biulding Android applications and buil
 <br />
 <br />
 
-<p align="center">
-    <a href="https://github.com/asino-nelson/github-readme-streak-stats">
-      <img alt="Nelson's streak" width="100%" height="195px" src="https://streak-stats.demolab.com/?user=asino-nelson&hide_border=true&theme=gotham"/>
-    </a>
-    
-</p>
+
 
 
 <br />
