@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Nelson+Asino&fontsize=10&fontColor=fff&animation=twinklimg&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Nelson+Asino&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Nelson+Asino%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;I+love+Android+and+Web+Development+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Nelson+Asino%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;I+love+Mobile+and+Web+Development+:%29)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,8 +29,6 @@ I'm a software engineer passionate about building Android and Web applications a
 <img align="left" alt="React.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" alt="django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  />
-
-<svg align="left" alt="expo" width="30px" style="padding-right:10px;" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Expo</title><path d="M0 20.084c.043.53.23 1.063.718 1.778.58.849 1.576 1.315 2.303.567.49-.505 5.794-9.776 8.35-13.29a.761.761 0 011.248 0c2.556 3.514 7.86 12.785 8.35 13.29.727.748 1.723.282 2.303-.567.57-.835.728-1.42.728-2.046 0-.426-8.26-15.798-9.092-17.078-.8-1.23-1.044-1.498-2.397-1.542h-1.032c-1.353.044-1.597.311-2.398 1.542C8.267 3.991.33 18.758 0 19.77Z"/></svg>
 
 <br />
 <br />
