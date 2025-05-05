@@ -10,7 +10,7 @@
 
 
 
-Whether it’s crafting sleek Android apps or building dynamic web experiences, I thrive on solving real-world problems with clean, creative code. Every project is a blank canvas, and I love painting it with innovation and precision.
+Whether it’s crafting sleek Mobile Apps or building dynamic web experiences, I thrive on solving real-world problems with clean, creative code. Every project is a blank canvas, and I love painting it with innovation and precision.
 
 💡 Why settle for ordinary when you can build extraordinary? Let’s transform the world, one line of code at a time.
 
