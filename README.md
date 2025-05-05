@@ -12,7 +12,7 @@
 
 Whether it’s crafting sleek Mobile Apps or building dynamic web experiences, I thrive on solving real-world problems with clean, creative code. Every project is a blank canvas, and I love painting it with innovation and precision.
 
-💡 Why settle for ordinary when you can build extraordinary? Let’s transform the world, one line of code at a time.
+💡 Why settle for ordinary when you can build extraordinary? Let’s transform the world, one line of code at a time. 
 
 <br/>
 
@@ -57,11 +57,3 @@ Whether it’s crafting sleek Mobile Apps or building dynamic web experiences, I
 </div>
 
 <br/>
-
-## 📊Stats
-
-<br />
-
-<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asino-nelson&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
-<br />
