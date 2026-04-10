@@ -2,13 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Nelson+Asino%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;I+love+Mobile+and+Web+Development+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Nelson+Asino%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;I+Enjoy+Backend+and+Mobile+Engineering+:%29)](https://git.io/typing-svg)
 
 </div>
-
-🚀**Code butcher**
-
-
 
 Whether it’s crafting sleek Mobile Apps or building dynamic web experiences, I thrive on solving real-world problems with clean, creative code. Every project is a blank canvas, and I love painting it with innovation and precision.
 
@@ -21,9 +17,11 @@ Whether it’s crafting sleek Mobile Apps or building dynamic web experiences, I
 <br/>
 
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="golang" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
@@ -34,6 +32,8 @@ Whether it’s crafting sleek Mobile Apps or building dynamic web experiences, I
 <img align="left" alt="React.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" alt="django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  />
+
+          
 
 <br />
 <br />
